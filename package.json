@@ -1,5 +1,6 @@
 {
   "name": "habitat-construction",
+  "homepage": "https://tuhabitat.co/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

@@ -65,7 +65,7 @@ function App() {
             </h2>
             <div className="w-full flex gap-[5%] pb-[15%]">
               <motion.a
-                href=""
+                href="https://www.psepagos.co/PSEHostingUI/ShowTicketOffice.aspx?ID=7332" target="_blank"
                 className="bg-white w-[50%] rounded-[30px] py-[5%]"
                 whileHover={{ scale: [null, 1.09, 1.1] }}
                 transition={{ duration: 0.3 }}
@@ -77,7 +77,7 @@ function App() {
                 />
               </motion.a>
               <motion.a
-                href=""
+                href="https://credibanco.tuhabitat.co/" target="_blank"
                 className="bg-white w-[50%] flex rounded-[30px]"
                 whileTap={{ scale: 0.8 }}
                 whileHover={{ scale: 1.09 }}
